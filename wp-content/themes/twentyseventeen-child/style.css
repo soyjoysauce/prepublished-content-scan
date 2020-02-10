@@ -1,0 +1,11 @@
+/* 
+Theme Name: Twenty Seventeen Child
+Theme URI: https://wordpress:8888/
+Description: This is a child theme of Twenty Seventeen Theme
+Author: Soyoung Bae
+Author URI: https://soy-dev.com
+Template: twentyseventeen
+Version: 1.0
+*/
+
+@import url("../twentyseventeen/style.css");

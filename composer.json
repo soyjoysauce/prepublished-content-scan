@@ -1,0 +1,13 @@
+{
+  "name": "pre-published content scan",
+  "description": "composer for pre-published content scan plugin",
+  "require": {
+    "vlucas/phpdotenv": "^2.2"
+  },
+  "authors": [
+    {
+      "name": "Soyoung Bae",
+      "email": "me@mysite.com"
+    }
+  ]
+}
