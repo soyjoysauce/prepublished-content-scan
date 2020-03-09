@@ -1,2 +1,3 @@
 wp-content/plugins/wp-webpack-example/node_modules
 wp-config.php
+.env
